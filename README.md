@@ -20,6 +20,11 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guilherme-f%C3%A9lix-1013a1218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/DeveSerOGui/DeveSerOGui/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![Snake animation](https://github.com/DeveSerOGui/DeveSerOGui/blob/output/github-contribution-grid-snake.svg)
+
+  <!-- <!-<details>
+    <summary>
+      <img align="center" height="500" width="800" src="https://wakatime.com/share/@0b71d094-f479-4007-b768-49233a5edaf4/46d7c5b6-4a3b-42f2-bc28-1a54a8ca24e1.svg"></img>
+    </summary>
+  </details> -->
+ </div>
