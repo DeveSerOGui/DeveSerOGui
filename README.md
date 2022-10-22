@@ -17,7 +17,6 @@
  
 <div> 
   <a href="https://instagram.com/guifelixsz" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" target="_blank" height="30" width="40"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="30" width="40"></a> 
   <a href="https://www.linkedin.com/in/guilherme-f%C3%A9lix-1013a1218/" target="_blank" ><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" target="_blank" height="30" width="40"></a> 
  
 ![Snake animation](https://github.com/DeveSerOGui/DeveSerOGui/blob/output/github-contribution-grid-snake.svg)
