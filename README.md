@@ -6,7 +6,7 @@
 </div>
   
 <div align="center"> 
- <p> Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no Ibmec. </p>
+ <p> Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Ibmec. </p>
   
    ## Tecnologias que possuo conhecimento
    
